@@ -20,7 +20,7 @@
     "multibase": "^3.0.1",
     "multicodec": "^2.0.1",
     "multihashes": "^3.0.1",
-    "parcel-bundler": "^1.12.4",
+    "parcel-bundler": "^1.12.5",
     "tachyons": "^4.12.0"
   }
 }
