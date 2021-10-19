@@ -19,7 +19,7 @@
     "ipfs-css": "^1.2.0",
     "multibase": "^3.0.1",
     "multicodec": "^2.0.1",
-    "multihashes": "^3.0.1",
+    "multihashes": "^3.1.2",
     "parcel-bundler": "^1.12.4",
     "tachyons": "^4.12.0"
   }
